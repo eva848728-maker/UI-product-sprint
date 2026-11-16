@@ -1,0 +1,6 @@
+git config --global user.name "Eva"
+git config --global user.email "eva848728@gmail.com"
+
+UI Product Sprint
+розробка інтерфейсу користувача за ТЗ у FIGMA
+https://www.figma.com/design/nFZLWZ27nveAV1fRodzRX2/BAZA-R_Rozetka?node-id=0-1&p=f&t=OncKvmmxFbneyO3x-0
