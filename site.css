@@ -1,0 +1,37 @@
+bode {
+    background: color #f5f5f5;
+}
+.montserrat-regular {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.montserrat-500 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.center {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-action {
+    background-color: #98BE2A;
+    font-size: 18px;
+    height: 32px;
+    margin-left: 10px;
+}
+.header-nav {
+    background-color: #0B1245;
+    height: 72px;
+    margin-left: 10px;
+}
+.nav-menu {
+    margin: 28px 0 0 65px;
+}
+.nav-logo {
+    
+}
